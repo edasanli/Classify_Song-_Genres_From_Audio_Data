@@ -1,6 +1,6 @@
 # Classify_Song_Genres_From_Audio_Data
 
-This project belongs to one of the machine learning projects provided by DataCamp. What is provided in this project is the dataset, context and couple of basic instructions.
+This project belongs to one of the machine learning projects by DataCamp. The dataset, context and couple of basic instructions is provided in this project.
 
 
 ## Project Description
